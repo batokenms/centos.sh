@@ -11,3 +11,4 @@ sudo traceroute
 sudo mkdir jean
 sudo touch book
 sudo cat book
+sudo cat /etc/passwd
