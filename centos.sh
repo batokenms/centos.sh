@@ -8,3 +8,4 @@ sudo lsblk
 sudo nproc
 sudo ping
 sudo traceroute
+sudo mkdir jean
