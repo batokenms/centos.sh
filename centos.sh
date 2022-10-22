@@ -5,3 +5,4 @@ sudo date
 sudo cal
 sudo top
 sudo lsblk
+sudo nproc
