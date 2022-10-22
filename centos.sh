@@ -6,3 +6,4 @@ sudo cal
 sudo top
 sudo lsblk
 sudo nproc
+sudo ping
