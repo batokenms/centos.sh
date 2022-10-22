@@ -7,3 +7,4 @@ sudo top
 sudo lsblk
 sudo nproc
 sudo ping
+sudo traceroute
