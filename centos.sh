@@ -4,3 +4,4 @@ sudo useradd jean
 sudo date
 sudo cal
 sudo top
+sudo lsblk
